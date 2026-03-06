@@ -7,3 +7,4 @@ Create a branch off from the main copy of files that you (and your collaborators
 Make edits to the files independently and safely on your own personal branch.
 Let Git intelligently merge your specific changes back into the main copy of files, so that your changes don't impact other people's updates.
 Let Git keep track of your and other people's changes, so you all stay working on the most up-to-date version of the project.
+********************************************************
